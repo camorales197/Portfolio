@@ -41,7 +41,3 @@ In this project I represent data from [MoMo](https://momo.isciii.es/public/momo/
 
 If you feel like talking you can [Hit me up on Linkedin](https://www.linkedin.com/in/carloscamorales/) or [Send me an email](mailto:camorales@outlook.com?subject=Hello!)
 
-
-
-![Image](src)
-**Bold** and _Italic_ and `Code` text

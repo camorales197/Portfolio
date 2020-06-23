@@ -1,32 +1,17 @@
-## ----------------
+## Introduction
 
-## Work In Progress
-
-## ----------------
-
-  
-## Carlos Morales - Portfolio
-
-
-### Introduction
+In this site I share a few personal projects I have develop on my free time. While working on them, I have always have the following objectives:
+1. Try to **LEARN** new things about Data Science, Data Engineering or Software in general with every project.
+2. Build a **USER-FRIENDLY** “final product” allowing people to have fun with it.
+3. Last but not least, **ENJOY** the building process! 
 
 
 
 
 
-- Bulleted
-- List
+[Linkedin](https://www.linkedin.com/in/carloscamorales/) 
 
-While building these projects I have tried to meet the following constraints:
-1. Try to **learn** new things with every project. 
-2. Create something practical and **useful*.
-2. Have the lowest running cost possible (**0€** if possible)
-3. Using as much **open source** as possible.
-4. Have a product which could scale “infinitely” thanks to **serverless** services.
-5. Build a **user-friendly** “final product” allowing people to have fun with it.
-6. Last but not least, **enjoy** the building process! 
 
+
+![Image](src)
 **Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```

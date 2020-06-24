@@ -8,11 +8,14 @@ In this site I share a few personal projects I have develop on my free time. Whi
 # Projects
 
 ## Linkedin Connections Analyzer
-A website is created to extract insights about Linkedin connections data.
+A website is created to facilitate non-technical users to extract insights about their Linkedin connections data. In the website is explained how to download information about your connections from Linkedin. Then, uploading this info to the site you would be able to see charts that allow to know more about your network
 
-In the website is explained how to download information about your connections from Linkedin. Then, uploading this info to the site you would be able to see charts that allow to know more about your network
+On top of that, in order to collect some super basics metrics, I set up a couple of triggers after certain actions of the user. 
 
-![Example](images/img_linkedin.png)
+This has been the first project where I have worked with a file provided by the user :) 
+
+
+![Example](images/img_linkedin2.png)
 
 [Site](https://linkedin-connections-charts.herokuapp.com/) 
 
@@ -23,9 +26,11 @@ In the website is explained how to download information about your connections f
 
 Sentiment analysis study to the tweets of the main Spanish Politicians. For each politician, their last 3,200 tweets have been collected via API, dated June 15, 2020
 
-The insights are published in a public site with dinamyc graphs that allow users to play with the data.
+The insights are published in a public site with dynamic graphs that allow users to play with the data. 
 
-![Example](images/img_twitter.png)
+I have discovered a few different NLP libraries super interesting. I definitely want to do dig deeper in this area!  
+
+![Example](images/img_twitter2.png)
 
 [Site](https://twitter-sentiment-spain.herokuapp.com/) 
 

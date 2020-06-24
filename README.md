@@ -1,7 +1,11 @@
 # Table of Contents
 1. [Introduction](#Introduction)
 2. [Projects](#Projects)
-    1. [Sub paragraph](#subparagraph1)
+    1. [Linkedin Connections Analyzer](#Linkedin Connections Analyzer)
+    2. [Politicians Tweets Sentiments Analysis](#Politicians Tweets Sentiments Analysis)
+    3. [Covid19 Spain - Dashboard](#Covid19 Spain - Dashboard)
+   
+
 3. [Contact](#Contact)
 
 ## This is the introduction <a name="introduction"></a>

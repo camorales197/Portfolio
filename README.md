@@ -12,6 +12,8 @@ A website is created to extract insights about Linkedin connections data.
 
 In the website is explained how to download information about your connections from Linkedin. Then, uploading this info to the site you would be able to see charts that allow to know more about your network
 
+![Example](images/img_linkedin.png)
+
 [Site](https://linkedin-connections-charts.herokuapp.com/) 
 
 [Repo](https://github.com/camorales197/linkedin_connections) 
@@ -23,6 +25,8 @@ Sentiment analysis study to the tweets of the main Spanish Politicians. For each
 
 The insights are published in a public site with dinamyc graphs that allow users to play with the data.
 
+![Example](images/img_twitter.png)
+
 [Site](https://twitter-sentiment-spain.herokuapp.com/) 
 
 [Repo](https://github.com/camorales197/tweets_sentiments) 
@@ -31,6 +35,8 @@ The insights are published in a public site with dinamyc graphs that allow users
 ## Covid19 Spain - Dashboard
 
 In this project I represent data from [MoMo](https://momo.isciii.es/public/momo/dashboard/momo_dashboard.html#nacional) and apply some calculations to estimate the number of people currently infected with the virus. 
+
+![Example](images/img_covid.png)
 
 [Site](https://seguimiento-covid19-espana.herokuapp.com/)
 

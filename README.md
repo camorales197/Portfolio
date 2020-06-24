@@ -1,8 +1,8 @@
 # Table of Contents
 1. [Introduction](#Introduction)
-2. [Some paragraph](#paragraph1)
+2. [Projects](#Projects)
     1. [Sub paragraph](#subparagraph1)
-3. [Another paragraph](#paragraph2)
+3. [Contact](#Contact)
 
 ## This is the introduction <a name="introduction"></a>
 Some introduction text, formatted in heading 2 style

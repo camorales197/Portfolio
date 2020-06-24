@@ -1,24 +1,11 @@
 # Table of Contents
 1. [Introduction](#Introduction)
 2. [Projects](#Projects)
-    1. [Linkedin Connections Analyzer](#Linkedin Connections Analyzer)
-    2. [Politicians Tweets Sentiments Analysis](#Politicians Tweets Sentiments Analysis)
-    3. [Covid19 Spain - Dashboard](#Covid19 Spain - Dashboard)
-   
-
+    1. [Linkedin Connections Analyzer](#Linkedin)
+    2. [Politicians Tweets Sentiments Analysis](#Politicians)
+    3. [Covid19 Spain - Dashboard](#Covid19)
 3. [Contact](#Contact)
 
-## This is the introduction <a name="introduction"></a>
-Some introduction text, formatted in heading 2 style
-
-## Some paragraph <a name="paragraph1"></a>
-The first paragraph text
-
-### Sub paragraph <a name="subparagraph1"></a>
-This is a sub paragraph, formatted in heading 3 style
-
-## Another paragraph <a name="paragraph2"></a>
-The second paragraph text
 
 # Introduction
 
@@ -29,7 +16,7 @@ In this site I share a few personal projects that I have develop on my free time
 
 # Projects
 
-## Linkedin Connections Analyzer
+## Linkedin Connections Analyzer<a name="Linkedin"></a>
 A website is created to facilitate non-technical users to extract insights about their Linkedin connections data. In the website is explained how to download information about your connections from Linkedin. Then, uploading this info to the site you would be able to see charts that allow to know more about your network
 
 On top of that, in order to collect some super basics metrics, I set up a couple of triggers after certain actions of the user. 
@@ -44,7 +31,7 @@ This has been the first project where I have worked with a file provided by the 
 [Repo](https://github.com/camorales197/linkedin_connections) 
 
 
-## Politicians Tweets Sentiments Analysis
+## Politicians Tweets Sentiments Analysis<a name="Politicians"></a>
 
 Sentiment analysis study to the tweets of the main Spanish Politicians. For each politician, their last 3,200 tweets have been collected via API, dated June 15, 2020
 
@@ -59,7 +46,7 @@ I have discovered a few different NLP libraries super interesting. I definitely 
 [Repo](https://github.com/camorales197/tweets_sentiments) 
 
 
-## Covid19 Spain - Dashboard
+## Covid19 Spain - Dashboard<a name="Covid19"></a>
 
 In this project I represent data from [MoMo](https://momo.isciii.es/public/momo/dashboard/momo_dashboard.html#nacional) and apply some calculations to estimate the number of people currently infected with the virus. 
 

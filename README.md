@@ -4,6 +4,7 @@
     1. [Linkedin Connections Analyzer](#Linkedin)
     2. [Politicians Tweets Sentiments Analysis](#Politicians)
     3. [Covid19 Spain - Dashboard](#Covid19)
+    4. [saBOTina](#Sabotina)
 3. [Contact](#Contact)
 
 
@@ -56,6 +57,16 @@ In this project I represent data from [MoMo](https://momo.isciii.es/public/momo/
 
 [Repo](https://github.com/camorales197/covid-app)
 
+
+## Tweeter Bot - Joaquin Sabina AI Generated Quotes <a name="Sabotina"></a>
+
+This projects aims to build a tweeter bot that shares Joaquin Sabina´s style AI generated quotes. All the lyrics from the singer are downlaoded using Genius API. Then, GPT-2 model is used for the text generation.
+
+![Example](images/img_sabotina.png)
+
+[Site](https://twitter.com/JSaBOTina)
+
+[Repo](https://github.com/camorales197/saBOTina)
 
 # Contact
 

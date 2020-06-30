@@ -62,6 +62,7 @@ In this project I represent data from [MoMo](https://momo.isciii.es/public/momo/
 
 This projects aims to build a tweeter bot that shares Joaquin Sabina´s style AI generated quotes. All the lyrics from the singer are downlaoded using Genius API. Then, GPT-2 model is used for the text generation.
 
+
 ![Example](images/img_sabotina.png)
 
 [Site](https://twitter.com/JSaBOTina)
